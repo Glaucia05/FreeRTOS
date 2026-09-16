@@ -1,0 +1,1 @@
+C:\Users\glauc\Downloads\FreeRTOS_PUCPR\FreeRTOS_PUCPR\FreeRTOS\Demo\WIN32-MSVC-Exemplo_01 - Hello World\Debug\Exemplo_01.exe

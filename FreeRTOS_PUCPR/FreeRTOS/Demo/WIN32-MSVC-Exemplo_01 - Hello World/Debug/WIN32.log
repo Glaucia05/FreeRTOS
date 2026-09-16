@@ -1,0 +1,21 @@
+﻿cl : linha de comando  warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+  example.c
+C:\Users\glauc\Downloads\FreeRTOS_PUCPR\FreeRTOS_PUCPR\FreeRTOS\Demo\WIN32-MSVC-Exemplo_01 - Hello World\example.c(28,8): warning C4459: a declaração de 'mover' oculta uma declaração global
+      C:\Users\glauc\Downloads\FreeRTOS_PUCPR\FreeRTOS_PUCPR\FreeRTOS\Demo\WIN32-MSVC-Exemplo_01 - Hello World\example.c(20,6):
+      consulte a declaração de 'mover'
+  
+C:\Users\glauc\Downloads\FreeRTOS_PUCPR\FreeRTOS_PUCPR\FreeRTOS\Demo\WIN32-MSVC-Exemplo_01 - Hello World\example.c(30,12): warning C4130: "==": operação lógica no endereço da constante de cadeia de caracteres
+C:\Users\glauc\Downloads\FreeRTOS_PUCPR\FreeRTOS_PUCPR\FreeRTOS\Demo\WIN32-MSVC-Exemplo_01 - Hello World\example.c(39,17): warning C4130: "==": operação lógica no endereço da constante de cadeia de caracteres
+C:\Users\glauc\Downloads\FreeRTOS_PUCPR\FreeRTOS_PUCPR\FreeRTOS\Demo\WIN32-MSVC-Exemplo_01 - Hello World\example.c(55,8): warning C4459: a declaração de 'direção' oculta uma declaração global
+      C:\Users\glauc\Downloads\FreeRTOS_PUCPR\FreeRTOS_PUCPR\FreeRTOS\Demo\WIN32-MSVC-Exemplo_01 - Hello World\example.c(21,6):
+      consulte a declaração de 'direção'
+  
+C:\Users\glauc\Downloads\FreeRTOS_PUCPR\FreeRTOS_PUCPR\FreeRTOS\Demo\WIN32-MSVC-Exemplo_01 - Hello World\example.c(57,16): warning C4130: "==": operação lógica no endereço da constante de cadeia de caracteres
+C:\Users\glauc\Downloads\FreeRTOS_PUCPR\FreeRTOS_PUCPR\FreeRTOS\Demo\WIN32-MSVC-Exemplo_01 - Hello World\example.c(65,21): warning C4130: "==": operação lógica no endereço da constante de cadeia de caracteres
+C:\Users\glauc\Downloads\FreeRTOS_PUCPR\FreeRTOS_PUCPR\FreeRTOS\Demo\WIN32-MSVC-Exemplo_01 - Hello World\example.c(85,8): warning C4459: a declaração de 'sentido' oculta uma declaração global
+      C:\Users\glauc\Downloads\FreeRTOS_PUCPR\FreeRTOS_PUCPR\FreeRTOS\Demo\WIN32-MSVC-Exemplo_01 - Hello World\example.c(19,6):
+      consulte a declaração de 'sentido'
+  
+C:\Users\glauc\Downloads\FreeRTOS_PUCPR\FreeRTOS_PUCPR\FreeRTOS\Demo\WIN32-MSVC-Exemplo_01 - Hello World\example.c(87,14): warning C4130: "==": operação lógica no endereço da constante de cadeia de caracteres
+C:\Users\glauc\Downloads\FreeRTOS_PUCPR\FreeRTOS_PUCPR\FreeRTOS\Demo\WIN32-MSVC-Exemplo_01 - Hello World\example.c(125,1): warning C4702: código inacessível
+  WIN32.vcxproj -> C:\Users\glauc\Downloads\FreeRTOS_PUCPR\FreeRTOS_PUCPR\FreeRTOS\Demo\WIN32-MSVC-Exemplo_01 - Hello World\Debug\Exemplo_01.exe
